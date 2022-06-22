@@ -1,0 +1,91 @@
+.backColor{
+    background-color: #EFEDED;
+    padding: 50px 0px;
+}
+.pageColor{
+    background-color: #fff;
+    height: 670px;
+    border-radius: 20px;
+}
+.logo{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 10px;
+}
+.fontColor{
+    color:#b3ababfa ;
+    margin-top: 23px;
+}
+.mainSectionBack{
+    background-color: rgb(238, 239, 237,0.4) ;
+}
+.SearchIcon{
+    background-color: rgb(221, 242, 249);
+    padding: 10px;
+}
+.secHeader{
+    background-color: rgb(231, 218, 242);
+    margin: 10px 10px 10px 0px;
+    border-radius: 10px;
+}
+.des{
+    font-size: 12px;
+    padding-top: 50px;
+}
+.latestResult{
+    border-radius: 10px;
+}
+.arrowMore{
+    font-size: 10px;
+}
+.percen{
+    font-size: 13px;
+}
+.result{
+    color: rgb(211, 225, 250);
+}
+.vertical{
+    transform: rotate(-90deg);
+}
+.latestResult2{
+    padding-top: 50px;
+}
+.course{
+    font-size: 8px;
+}
+.bussinessENG{
+    background-color: rgb(195, 140, 247);
+    border-radius: 20px;
+    height: 83px;
+    width: 250px;
+}
+.commonENG{
+    background-color: rgb(206, 248, 248);
+    border-radius: 20px;
+    height: 83px;
+    width: 250px;
+}
+.spanish{
+    background-color: rgb(250, 151, 201);
+    border-radius: 20px;
+    height: 83px;
+    width: 250px;
+}
+.b2{
+    background-color: rgb(240, 228, 250);
+    border-radius: 10px;
+
+}
+.footerFirst{
+    font-size: 13px;
+    color:#b3ababfa ;
+    height: 140px;
+    width: 160px;
+    background-color:rgb(220 228 240); 
+    border-radius: 10px;
+}
+.upgradeBtn{
+    border-radius: 10px;
+    border-width: opx;
+    
+}
